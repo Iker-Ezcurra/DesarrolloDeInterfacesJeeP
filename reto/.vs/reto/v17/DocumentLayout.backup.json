@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D02A62F-E8F5-46FE-8D01-64A5ED0C962E}|reto\\reto.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\reto\\reto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D02A62F-E8F5-46FE-8D01-64A5ED0C962E}|reto\\reto.csproj|solutionrelative:reto\\reto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D02A62F-E8F5-46FE-8D01-64A5ED0C962E}|reto\\reto.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\reto\\tpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D02A62F-E8F5-46FE-8D01-64A5ED0C962E}|reto\\reto.csproj|solutionrelative:reto\\tpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2498847-FE2A-4717-97C2-A450BD09A766}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2498847-FE2A-4717-97C2-A450BD09A766}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TPV.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\TPV.cs",
+              "RelativeDocumentMoniker": "reto\\TPV.cs",
+              "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\TPV.cs [Dise\u00F1o]",
+              "RelativeToolTip": "reto\\TPV.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:08:15.266Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reto",
+              "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\reto.csproj",
+              "RelativeDocumentMoniker": "reto\\reto.csproj",
+              "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\reto.csproj*",
+              "RelativeToolTip": "reto\\reto.csproj*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T11:08:10.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:35:25.22Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
