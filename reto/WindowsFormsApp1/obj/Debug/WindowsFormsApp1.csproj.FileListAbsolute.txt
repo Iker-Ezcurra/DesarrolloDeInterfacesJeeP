@@ -12,3 +12,8 @@ C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\bin\Debug\biblioteca.dll
 C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\bin\Debug\biblioteca.pdb
 C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\bin\Debug\Recursos\LectorDeBarraApagado.png
+C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\bin\Debug\Recursos\LectorDeBarrasEncendido.png
+C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\bin\Debug\Recursos\express-thermal-print-animated-logo-small.gif
+C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\bin\Debug\Recursos\Impresora.png
+C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\bin\Debug\Recursos\Imprimido.png
