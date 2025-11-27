@@ -15,4 +15,4 @@ C:\Users\2dam3\source\repos\Reto\reto\reto\obj\Debug\net8.0-windows\refint\reto.
 C:\Users\2dam3\source\repos\Reto\reto\reto\obj\Debug\net8.0-windows\reto.pdb
 C:\Users\2dam3\source\repos\Reto\reto\reto\obj\Debug\net8.0-windows\reto.genruntimeconfig.cache
 C:\Users\2dam3\source\repos\Reto\reto\reto\obj\Debug\net8.0-windows\ref\reto.dll
-C:\Users\2dam3\source\repos\Reto\reto\reto\obj\Debug\net8.0-windows\reto.TPV.resources
+C:\Users\2dam3\source\repos\Reto\reto\reto\obj\Debug\net8.0-windows\reto.sourcelink.json

@@ -1,0 +1,9 @@
+C:\Users\2dam3\source\repos\Reto\reto\biblioteca\bin\Debug\biblioteca.dll
+C:\Users\2dam3\source\repos\Reto\reto\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\2dam3\source\repos\Reto\reto\biblioteca\obj\Debug\biblioteca.csproj.AssemblyReference.cache
+C:\Users\2dam3\source\repos\Reto\reto\biblioteca\obj\Debug\biblioteca.Properties.Resources.resources
+C:\Users\2dam3\source\repos\Reto\reto\biblioteca\obj\Debug\biblioteca.UserControl1.resources
+C:\Users\2dam3\source\repos\Reto\reto\biblioteca\obj\Debug\biblioteca.csproj.GenerateResource.cache
+C:\Users\2dam3\source\repos\Reto\reto\biblioteca\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\2dam3\source\repos\Reto\reto\biblioteca\obj\Debug\biblioteca.dll
+C:\Users\2dam3\source\repos\Reto\reto\biblioteca\obj\Debug\biblioteca.pdb

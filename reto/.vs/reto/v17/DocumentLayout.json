@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\biblioteca\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2498847-FE2A-4717-97C2-A450BD09A766}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C2498847-FE2A-4717-97C2-A450BD09A766}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D02A62F-E8F5-46FE-8D01-64A5ED0C962E}|reto\\reto.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\reto\\tpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D02A62F-E8F5-46FE-8D01-64A5ED0C962E}|reto\\reto.csproj|solutionrelative:reto\\tpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\biblioteca\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\biblioteca\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2498847-FE2A-4717-97C2-A450BD09A766}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2498847-FE2A-4717-97C2-A450BD09A766}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\biblioteca\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\biblioteca\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,35 +30,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "biblioteca\\UserControl1.Designer.cs",
+              "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\UserControl1.Designer.cs",
+              "RelativeToolTip": "biblioteca\\UserControl1.Designer.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAEwNsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:46:11.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\UserControl1.cs",
+              "RelativeDocumentMoniker": "biblioteca\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\UserControl1.cs",
+              "RelativeToolTip": "biblioteca\\UserControl1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:45:55.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:45:10.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
               "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T11:31:02.08Z",
+              "WhenOpened": "2025-11-26T12:10:25.606Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TPV.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\TPV.cs",
-              "RelativeDocumentMoniker": "reto\\TPV.cs",
-              "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\TPV.cs [Dise\u00F1o]",
-              "RelativeToolTip": "reto\\TPV.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T11:25:50.364Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserControl1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\UserControl1.cs",
               "RelativeDocumentMoniker": "biblioteca\\UserControl1.cs",
@@ -63,19 +94,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T11:25:32.167Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\Class1.cs",
-              "RelativeDocumentMoniker": "biblioteca\\Class1.cs",
-              "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\Class1.cs",
-              "RelativeToolTip": "biblioteca\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T11:23:52.888Z",
-              "EditorCaption": ""
             }
           ]
         }

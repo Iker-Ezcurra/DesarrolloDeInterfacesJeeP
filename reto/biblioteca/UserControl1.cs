@@ -16,5 +16,10 @@ namespace biblioteca
         {
             InitializeComponent();
         }
+
+        public void CambiarTexto(String nuevoTexto) 
+        { 
+            label1.Text = nuevoTexto;
+        }
     }
 }

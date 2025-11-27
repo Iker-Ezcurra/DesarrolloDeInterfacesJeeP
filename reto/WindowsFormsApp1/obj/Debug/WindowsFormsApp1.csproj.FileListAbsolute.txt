@@ -8,3 +8,7 @@ C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\obj\Debug\WindowsFormsApp
 C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\bin\Debug\biblioteca.dll
+C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\bin\Debug\biblioteca.pdb
+C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\2dam3\source\repos\Reto\reto\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date

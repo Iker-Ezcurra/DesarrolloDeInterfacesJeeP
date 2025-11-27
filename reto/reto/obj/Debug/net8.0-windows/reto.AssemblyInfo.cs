@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("reto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c2c6a03a509c33f9df565db74d790593d4baf9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("reto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("reto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
