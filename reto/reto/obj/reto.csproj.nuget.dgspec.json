@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\reto.csproj": {}
+    "C:\\Users\\2dam3\\source\\repos\\Reto\\Reto\\reto\\reto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\reto.csproj": {
+    "C:\\Users\\2dam3\\source\\repos\\Reto\\Reto\\reto\\reto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\reto.csproj",
+        "projectUniqueName": "C:\\Users\\2dam3\\source\\repos\\Reto\\Reto\\reto\\reto.csproj",
         "projectName": "reto",
-        "projectPath": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\reto.csproj",
+        "projectPath": "C:\\Users\\2dam3\\source\\repos\\Reto\\Reto\\reto\\reto.csproj",
         "packagesPath": "C:\\Users\\2dam3\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\reto\\obj\\",
         "projectStyle": "PackageReference",

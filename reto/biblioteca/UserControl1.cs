@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using static biblioteca.UserControl1;
 
 namespace biblioteca
@@ -23,18 +24,34 @@ namespace biblioteca
             InitializeComponent();
         }
 
+        //Devuelve la cantidad del produto
+        public int getCantidad(int i)
+        {
+            return productos[i].Cantidad;
+        }
+
+        //Devuelve el precio del produto
+        public double getPrecio(int i)
+        {
+            return productos[i].Precio;
+        }
+
         public void CargarProducto(String nombre, Double precio) 
         {
+            //Por defedcto la cantidad siempre es 1
             int cantidad = 1;
+            //Agrega un nuevo producto a la lista de productos
             productos.Add(new Producto { Nombre = nombre, Cantidad = cantidad, Precio = precio });
         }
 
         public void MostrarProductos()
         {
+            //Reinicia la vista de la pantalla con la lista
             dataGridView1.DataSource = null;  
             dataGridView1.DataSource = productos;
         }
 
+        //la clase producto con sus getters y setters
         public class Producto
         {
             public string Nombre { get; set; }
@@ -42,6 +59,7 @@ namespace biblioteca
             public double Precio { get; set; }
         }
 
+        //los siguitentes metodos son para agregar numero al textBox  y a la variable numero que hara de cantidad
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Focus();
@@ -49,9 +67,6 @@ namespace biblioteca
             {
                 numero = numero * 10 + 1;
                 textBox1.Text = numero.ToString();
-            }
-            else { 
-                
             }
         }
 
@@ -61,6 +76,7 @@ namespace biblioteca
             if (!punto)
             {
                 numero = numero * 10 + 2;
+                textBox1.Text=numero.ToString();
             }
         }
 
@@ -90,6 +106,7 @@ namespace biblioteca
             if (!punto)
             {
                 numero = numero * 10 + 5;
+                textBox1.Text = numero.ToString();
             }
         }
 
@@ -143,14 +160,17 @@ namespace biblioteca
             }
         }
 
+        //Este metodo hasigna al producto que tiene selecionado su cantidad y limpia el textBox
         private void button14_Click(object sender, EventArgs e)
         {
             if (dataGridView1 != null) {
+                //Recoge el producto seleccionado 
                 Producto p = dataGridView1.CurrentRow.DataBoundItem as Producto;
 
                 if (p != null) {
+                    //Cambia la cantidad
                     p.Cantidad = (int) numero;
-
+                    //Resetea todo
                     numero = 0;
                     textBox1.Text = "";
                     dataGridView1.Refresh();
@@ -158,20 +178,24 @@ namespace biblioteca
             }
         }
 
+        //Este metodo elimina la linea que tiene selecionado
         private void button15_Click(object sender, EventArgs e)
         {
             if (dataGridView1.CurrentRow != null) {
+                //Recoge el producto seleccionado 
                 Producto p = dataGridView1.CurrentRow.DataBoundItem as Producto;
 
                 if (p != null) { 
+                    //Elimina el producto
                     productos.Remove(p);
-
+                    //Resetea la vista
                     dataGridView1.DataSource = null;
                     dataGridView1.DataSource = productos;
                 }
             }
         }
 
+        //Este metodo muestra la suma del precio de todos los productos
         private void button13_Click(object sender, EventArgs e)
         {
             double total = 0;
@@ -182,9 +206,15 @@ namespace biblioteca
             textBox2.Text = total.ToString();
         }
 
+        //Este metodo envia una señal que da inicio a la animacion del ticket y limpia la pantalla
         private void button12_Click(object sender, EventArgs e)
         {
             ActivarGif?.Invoke(this, EventArgs.Empty);
+            productos.Clear();
+            dataGridView1.DataSource = null;
+            dataGridView1.Rows.Clear();
+            dataGridView1.Columns.Clear();
+            dataGridView1.Refresh();
         }
     }
 }

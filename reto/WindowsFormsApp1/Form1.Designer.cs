@@ -42,8 +42,8 @@
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.pictureBox13 = new System.Windows.Forms.PictureBox();
-            this.userControl11 = new biblioteca.UserControl1();
             this.pictureBox14 = new System.Windows.Forms.PictureBox();
+            this.userControl11 = new biblioteca.UserControl1();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -184,7 +184,7 @@
             // 
             this.pictureBox13.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox13.BackgroundImage")));
             this.pictureBox13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox13.Location = new System.Drawing.Point(546, 67);
+            this.pictureBox13.Location = new System.Drawing.Point(546, 86);
             this.pictureBox13.Name = "pictureBox13";
             this.pictureBox13.Size = new System.Drawing.Size(100, 176);
             this.pictureBox13.TabIndex = 13;
@@ -193,6 +193,18 @@
             this.pictureBox13.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pictureBox13_MouseDown);
             this.pictureBox13.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pictureBox13_MouseMove);
             this.pictureBox13.MouseUp += new System.Windows.Forms.MouseEventHandler(this.pictureBox13_MouseUp);
+            // 
+            // pictureBox14
+            // 
+            this.pictureBox14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox14.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox14.InitialImage")));
+            this.pictureBox14.Location = new System.Drawing.Point(512, 369);
+            this.pictureBox14.Name = "pictureBox14";
+            this.pictureBox14.Size = new System.Drawing.Size(134, 139);
+            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox14.TabIndex = 14;
+            this.pictureBox14.TabStop = false;
+            this.pictureBox14.Click += new System.EventHandler(this.pictureBox14_Click);
             // 
             // userControl11
             // 
@@ -204,22 +216,11 @@
             this.userControl11.Size = new System.Drawing.Size(716, 479);
             this.userControl11.TabIndex = 0;
             // 
-            // pictureBox14
-            // 
-            this.pictureBox14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox14.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox14.InitialImage")));
-            this.pictureBox14.Location = new System.Drawing.Point(510, 364);
-            this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(136, 144);
-            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox14.TabIndex = 14;
-            this.pictureBox14.TabStop = false;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1110, 509);
+            this.ClientSize = new System.Drawing.Size(1104, 509);
             this.Controls.Add(this.pictureBox13);
             this.Controls.Add(this.pictureBox14);
             this.Controls.Add(this.pictureBox10);

@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\biblioteca\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2498847-FE2A-4717-97C2-A450BD09A766}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C2498847-FE2A-4717-97C2-A450BD09A766}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\2dam3\\source\\repos\\reto\\reto\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C2498847-FE2A-4717-97C2-A450BD09A766}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48B4F784-0FAE-44B6-82F2-38FBB602B6BF}|biblioteca\\biblioteca.csproj|solutionrelative:biblioteca\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2498847-FE2A-4717-97C2-A450BD09A766}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
               "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAADwvzEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAmwLMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T07:08:09.434Z",
               "IsPinned": true,
@@ -54,23 +50,10 @@
               "RelativeDocumentMoniker": "biblioteca\\UserControl1.cs",
               "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\UserControl1.cs",
               "RelativeToolTip": "biblioteca\\UserControl1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAALIAAAAAAAAAAAAwwNAAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T12:45:55.675Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\Producto.cs",
-              "RelativeDocumentMoniker": "biblioteca\\Producto.cs",
-              "ToolTip": "C:\\Users\\2dam3\\source\\repos\\Reto\\reto\\biblioteca\\Producto.cs",
-              "RelativeToolTip": "biblioteca\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T09:06:50.93Z",
               "EditorCaption": ""
             },
             {
