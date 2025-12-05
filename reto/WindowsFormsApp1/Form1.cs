@@ -148,6 +148,11 @@ namespace WindowsFormsApp1
             await Task.Delay(1000);
 
             pictureBox13.BackgroundImage = imagenOriginal;
-        }   
-    }
+        }
+
+		private void pictureBox1_Click(object sender, EventArgs e)
+		{
+
+		}
+	}
 }
